@@ -14,16 +14,16 @@
 ## 🎬 Gameplay Preview
 
 ### 🛠️ Game Startup
-[![Startup](previews/Startup-ezgif.com-video-to-gif-converter.gif)
+![Startup](previews/Startup-ezgif.com-video-to-gif-converter.gif)
 
-### 🌲 Map 1: Mystic Forest
-[![Map 1](https://img.youtube.com/vi/YOUR_VIDEO_ID2/0.jpg)](https://youtu.be/YOUR_VIDEO_ID2)
+### 🌲 Map 1: SUNSET
+![Map 1](previews/SUNSET-ezgif.com-video-to-gif-converter.gif)
 
-### 🏜️ Map 2: Desert Arena
-[![Map 2](https://img.youtube.com/vi/YOUR_VIDEO_ID3/0.jpg)](https://youtu.be/YOUR_VIDEO_ID3)
+### 🏜️ Map 2: DARKSIDE
+![Map 2](previews/DARKSIDE-ezgif.com-video-to-gif-converter.gif)
 
-### 🏰 Map 3: Sky Citadel
-[![Map 3](https://img.youtube.com/vi/YOUR_VIDEO_ID4/0.jpg)](https://youtu.be/k_EculvqoCY)
+### 🏰 Map 3: VILLAGE
+![Map 3](previews/VILLAGE-ezgif.com-video-to-gif-converter.gif)
 
 
 ## 🕹️ Controls
