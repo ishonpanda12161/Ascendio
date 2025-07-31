@@ -14,7 +14,7 @@
 ## 🎬 Gameplay Preview
 
 ### 🛠️ Game Startup
-[![Startup](preview/Startup-ezgif.com-video-to-gif-converter.gif)
+[![Startup](previews/Startup-ezgif.com-video-to-gif-converter.gif)
 
 ### 🌲 Map 1: Mystic Forest
 [![Map 1](https://img.youtube.com/vi/YOUR_VIDEO_ID2/0.jpg)](https://youtu.be/YOUR_VIDEO_ID2)
